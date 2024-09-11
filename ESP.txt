@@ -1,0 +1,12 @@
+https://microcontrollerslab.com/accessing-esp32-web-server-anywhere-world-esp8266/ ESP SERVER
+https://stackoverflow.com/questions/66284486/send-data-from-android-phone-to-esp32
+https://embeddedexplorer.com/esp32-web-server/#:~:text=Set%20the%20IP%20address,of%20ESP32%20to%20192.168.1.1.
+
+http://www.javadecompilers.com/apktool
+
+https://developer.android.com/studio/
+https://developer.android.com/build/building-cmdline
+Compile Your Project:
+Open a terminal and navigate to your project directory.
+Run the following command to build your APK:
+./gradlew assembleDebug

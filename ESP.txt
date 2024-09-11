@@ -10,3 +10,4 @@ Compile Your Project:
 Open a terminal and navigate to your project directory.
 Run the following command to build your APK:
 ./gradlew assembleDebug
+WomenSafety\app\build\outputs\apk\debug
